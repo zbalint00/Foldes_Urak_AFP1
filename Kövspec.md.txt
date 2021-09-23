@@ -1,4 +1,4 @@
-Követelményspecifikáció
+# Követelményspecifikáció
 1. Vezetői összefoglaló
 Egy vidéki önkormányzat pályázaton nyert bizonyos összeget városi könyvtárának modernizálására. Ezt egyrészt új könyvek beszerzésére, másrészt a jelenlegi katalógus- és kölcsönzési nyilvántartó rendszerük szoftveres megoldással való lecserélésére szeretnék fordítani. Feladatunk tárgya ez utóbbi.
 
