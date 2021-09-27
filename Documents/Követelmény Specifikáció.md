@@ -1,1 +1,2 @@
 # Követelmény Specifikáció
+valami 
