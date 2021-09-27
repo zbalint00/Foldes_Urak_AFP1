@@ -1,1 +1,1 @@
-#Követelmény Specifikáció
+# Követelmény Specifikáció
