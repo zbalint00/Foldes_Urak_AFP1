@@ -31,6 +31,17 @@ Online folyamatok felhasználók számára:
 - Kölcsönzött autók listázása: regisztrált kölcsönző jogosultsággal belépés => profil menü => kölcsönzött autó(k) menü => lista megjelenítése
 - Lekérdezés (listák, kimutatások): regisztrált kölcsönző jogosultsággal belépés => lekérdezés menü => kívánt lekérdezés kiválasztása => adatok megadása => lekérdezés megjelenítése
 ## 6.) Követelménylista
+ID|Verzió|Név|Kifejtés
+--|------|---|--------
+K01|V1.0|Kölcsönzők adminisztrációja|Kölcsönzők regisztrálása, törlése az igényelt üzleti folyamatokban leírtak szerint.  
+K02|V1.0|Autók adminisztrációja|Autók regisztrálása, törlése az igényelt üzleti folyamatokban leírtak szerint.
+K03|V1.0|Kölcsönzés adminisztrációja|Kölcsönzések folyamatának kezelése az igényelt üzleti folyamatokban leírtak szerint.
+K04|V1.0|Felhasználói fiókok kezelése|Bejelentkezés, felhasználói adatok módosítása, intézők, kölcsönzők rögzítése az adatbázisban, listák és kimutatások készítése az igényelt üzleti folyamatokban leírtak szerint.  
+K05|V1.0|Egyszerűen használható kezelőfelület|A legelterjedtebb internet böngészőkből használható felhasználói felület megvalósítása, oly módon, hogy az intézők számára az új rendszerre való átállás a lehető legegyszerűbb legyen.
+K06|V1.0|Online elérhető nyilvános katalógus|Bárki számára elérhető online felület készítése, amin keresztül elérhető, böngészhető és kereshető a kölcsönözhető autók katalógusának tartalma.
+K07|V1.0|Platformfüggetlen, robusztus működés|Szabványos, az iparágban régóta bevált, operációs rendszertől független technológiák használata: Php, Apache HTTP szerver, MySQL.   
+K08|V1.0|Költséghatékony üzemeltetés|A szabványos és elterjedt technológiák használata biztosítja. 
+K09|V1.0|Bővíthetőség|A kezelt adatok mennyiségének, valamint a felhasználók számának bővíthetősége és utólag újabb funkciók hozzáadásának lehetőségének biztosítása.
 
 ## 7.) Irányított és szabad szöveges riportok
 
