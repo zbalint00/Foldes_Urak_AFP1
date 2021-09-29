@@ -62,6 +62,24 @@ az adatkezelés biztonságának garantálására hozott technikai és szervezés
 (4)   Az adatkezelő és az adatfeldolgozó intézkedéseket hoz annak biztosítására, hogy az adatkezelő vagy az adatfeldolgozó irányítása alatt eljáró, a személyes adatokhoz hozzáféréssel rendelkező természetes személyek kizárólag az adatkezelő utasításának megfelelően kezelhessék az említett adatokat, kivéve, ha az ettől való eltérésre uniós vagy tagállami jog kötelezi őket.
 
 ## 4.) Jelenlegi üzleti folyamatok modellje
+Üzleti szereplők: 	
+-	kölcsönző
+
+Üzleti munkatárs: 	
+-	eladó
+
+Üzleti entitások: 		
+-	személyes iratok
+-	autó
+-	kaució
+-	kartoték
+
+Üzleti folyamatok: 	
+-	Új gépjármű felvétele a rendszerbe: eladó aaz autó adatait felviszi a rendszerbe (kategória, márka, típus, felszereltség, évjárat, szín, meghajtás, férőhely, klíma, üzemanyag, váltó, abs, szervó) => a felvitt adatokat kinyomtatja => a kinyomtatott iratot egy fiókba helyezi kategória és név szerint szortírózva.
+-	Új kölcsönző regisztrálása: eladó az új kölcsönző adatait feltölti a rendszerbe => az adatokat egy regisztrációs lapra kinomtatja és kartoték rendezőbe helyezi név szerinti ábécé sorrendben.
+-	Gépjármű keresése: kölcsönző szépirodalmi katalógus fiókhoz megy => szerző és cím szerint cédulát megkeresi => a megtalált cédulán szereplő helyről a könyvet leveszi => elviszi a könyvet a könyvtáros pulthoz.
+-	Kölcsönzés – könyv kivétele: könyvtáros a könyvből kiveszi a cédulát => cédula hátulján lévő táblázatban rögzíti a kölcsönző személy olvasójegyének azonosítóját => cetlit a kölcsönzőhöz tartozó kartotékba helyezi kölcsönzésének lejárati határideje szerint rendezve => a könyvtáros rögzíti a kölcsönzött könyvek számát és a kölcsönzési határidőt a kölcsönző személy olvasójegyében.
+-	Kölcsönzés - könyv visszavétele: kölcsönző átadja a könyvet és az olvasójegyet a könyvtárosnak => könyvtáros az olvasójegyen regisztrálja a visszavétel tényét és a jegyet visszaadja a kölcsönzőnek => a kölcsönző kartotékjából a könyvhöz tartozó cetlit (kiveszi és rögzíti rajta a visszavételt) = > cetlit visszahelyezi a könyv hátuljába => könyvet elhelyezi a "polcra visszahelyezendő" feliratú gyűjtőkosárba.
 
 ## 5.) Igényelt üzleti folyamatok modellje:
 Online folyamatok intézők számára:
