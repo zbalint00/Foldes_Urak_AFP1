@@ -5,7 +5,7 @@
 ## 2.) Vágyálom rendszer leírása
 
 ## 3.) A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása
-##### A személyes adatok kezelésére vonatkozó elvek
+#### A személyes adatok kezelésére vonatkozó elvek
 
 (1)   A személyes adatok:
 
