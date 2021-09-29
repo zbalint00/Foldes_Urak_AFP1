@@ -99,6 +99,8 @@ K08|V1.0|Költséghatékony üzemeltetés|A szabványos és elterjedt technológ
 K09|V1.0|Bővíthetőség|A kezelt adatok mennyiségének, valamint a felhasználók számának bővíthetősége és utólag újabb funkciók hozzáadásának lehetőségének biztosítása.
 
 ## 7.) Irányított és szabad szöveges riportok
+ - A cégünk weboldala biztosítja az ügyfeleink számára az autó jármű kölcsönzést, amit az ügyfél által megadott időszakban tudja használni a különböző típusú, márkájú gépjárművet.
+ -  
 
 ## 8.) Fogalomszótár
  - Akkumulátorról hajtott jármű(BEV) - Olyan elektromos hajtású gépjármű amelynek egyedüli energiaforrásául – szemben a hibridmodellekkel és a „Range Extender” technológiával működő elektromos járművekkel – kizárólag akkumulátora szolgál (Battery Electric Vehicle; BEV). Az Audi e-tron például jellegzetes BEV-jármű.
