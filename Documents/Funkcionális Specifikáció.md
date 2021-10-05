@@ -12,7 +12,7 @@
 ## 9.) Képernyőtervek
 ## 10.) Forgatókönyv
 ## 11.) Funkció-követelmény megfeleltetés
-### Funkcionális követelmények megfeleltetése:
-### Nem Funkcionális követelmények megfeleltetése:
+### Funkciókövetelmények megfeleltetés:
+### Nem Funkció-követelmény megfeleltetés:
 ## 12.) Fogalomszótár
 ## 13.) A rendszer céljai és nem céljai
