@@ -1,5 +1,5 @@
 # Funkcionális Specifikáció
-## 1.) Áttekintás
+## 1.) Áttekintés
 ## 2.) Jelenlegi helyzet
 ## 3.) Követelménylista
 ## 4.) Követelmények
