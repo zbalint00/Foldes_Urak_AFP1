@@ -15,3 +15,4 @@
 ### Funkcionális követelmények megfeleltetése:
 ### Nem Funkcionális követelmények megfeleltetése:
 ## 12.) Fogalomszótár
+## 13.) A rendszer céljai és nem céljai
