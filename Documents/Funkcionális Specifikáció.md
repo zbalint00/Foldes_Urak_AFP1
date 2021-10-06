@@ -17,6 +17,25 @@
 - **Online elérhető nyilvános katalógus:** Bárki számára elérhető online felület készítése, amin keresztül elérhető, böngészhető és kereshető a kölcsönözhető autók katalógusának tartalma.
 - Részfeladatok megfelelő megjelenítése
 ## 5.) Jelenlegi üzleti folyamatok modellje
+Üzleti szereplők: 	
+-	kölcsönző
+
+Üzleti munkatárs: 	
+-	eladó
+
+Üzleti entitások: 		
+-	személyes iratok
+-	autó
+-	kaució
+-	kartoték
+
+Üzleti folyamatok: 	
+-	Új gépjármű felvétele a rendszerbe: eladó aaz autó adatait felviszi a rendszerbe (kategória, márka, típus, felszereltség, évjárat, szín, meghajtás, férőhely, klíma, üzemanyag, váltó, abs, szervó) => a felvitt adatokat kinyomtatja => a kinyomtatott iratot egy fiókba helyezi kategória és név szerint szortírózva.
+-	Új kölcsönző regisztrálása: eladó az új kölcsönző adatait feltölti a rendszerbe => az adatokat egy regisztrációs lapra kinomtatja és kartoték rendezőbe helyezi név szerinti ábécé sorrendben.
+-	Gépjármű keresése: kölcsönző a weboldalon kölcsönzés kezdete, kölcsönzés vége dátumokat megadja => kiválasztja a kölcsönözni kívánt autó kategóriáját.
+-	Kölcsönzés – autó kivétele: eladó kiveszi az autó adatait tartalmazó lapot => a lap hátulján lévő táblázatban rögzíti a kölcsönző személy személyes iratait => a lapot a kölcsönzőhöz tartozó kartotékba helyezi kölcsönzésének lejárati határideje szerint rendezve => az eladó rögzíti a kölcsönzött autó azonosítóját és a kölcsönzési határidőt és a kölcsönző a kaucitót leteszi.
+-	Kölcsönzés - autó visszavétele: kölcsönző átadja az autót és a kölcsönzésről szóló iratot az eladónak => eladó az iraton regisztrálja a visszavétel tényét és a kauciót visszaadja a kölcsönzőnek => a kölcsönző kartotékjából az autóhoz tartozó lapot kiveszi és rögzíti rajta a visszavételt = > lapot visszahelyezi a többi kölcsönözhető autók közé.
+
 ## 6.) Igényelt üzleti folyamatok
 ## 7.) Használati esetek
 ## 8.) Megfeleltetés, hogyan fedik le a használati esetek a követelményeket
