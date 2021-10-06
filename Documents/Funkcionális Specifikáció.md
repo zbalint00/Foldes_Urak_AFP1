@@ -40,7 +40,7 @@
 1. A felhasználó a főoldalon fog látni autókkal kapcsolatos híreket.
 2. A navigációs sáv gombjaival átírányíthatja magát a felhasználó a kölcsönzés vagy a regisztració/bejelentkezés szekcióra.
 3. Az átirányítást követően már láthatja is a kívánt oldalt.
-4. Ha a felhasználó felregisztrált be kell jelentkezni-e, hogy kölcsönözni tudjon.
+4. Ha a felhasználó felregisztrált be kell jelentkeznie, hogy kölcsönözni tudjon.
 5. Egy autó kiválasztása során azt könnyedén kikölcsönözheti.
 
 ## 7.) Használati esetek
@@ -51,20 +51,11 @@
 - Személyes adatok módosítása
 - Keresés funkció használata
 ## 8.) Megfeleltetés, hogyan fedik le a használati esetek a követelményeket
-- Első feladat: Képválasztás, ki kell választani a megfelelő képeket szöveg alapján
-- Több kép is megjelenik egymást követően
-- Pontszámok összesítése
-- Next
-- Második feladat: Matematikai feladat megoldása
-- Egymás után több, különböző operátorokkal és operandusokkal
-- A felhasználó csak az eredményt írja be
-- Pontszámok összesítése
-- Next
-- Harmadik feladat: kép alapján kiválasztani, mi van rajta
-- Checkboxokat kell kipipálni
-- Pontszámok összesítése
-- Next
-- Végeredmény
+- A kliensnek belépve kell legyen (regisztráció szükséges)
+- Regisztráció után a beérkező emailt jóvá kell hagynia
+- A belépett felhasználó átnavigálja magát a "katalógus" szekcióra, ahol elkezd böngészni
+- Egy bizonyos autó kiválasztása után megadja az adatait
+- Ha mindez megtörtént az utolsó lépés a kölcsönzés véglegesítése
 
 ## 9.) Képernyőtervek
 ## 10.) Forgatókönyv
