@@ -38,7 +38,7 @@
 
 ## 6.) Igényelt üzleti folyamatok
 ## 7.) Használati esetek
-![Üzleti Folyamat](blob/main/Documents/Pics/uzleti_folyamat.jpg)
+![Üzleti Folyamat](Pics/uzleti_folyamat.jpg)
 ### Felhasználó
 - Be regisztrálhat, bejelentkezhet
 - Kölcsönözhető autók között böngészhet
