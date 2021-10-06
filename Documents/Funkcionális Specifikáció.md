@@ -2,6 +2,12 @@
 ## 1.) Áttekintés
 ## 2.) Jelenlegi helyzet
 ## 3.) Követelménylista
+ 1. Reszponzív dizájn
+ 2. Új autók megjelenítése főoldalon
+ 3. Letisztult felhasználói felület
+ 4. Azonnal frissülő autó-katalógus
+ 5. Felhasználó-biztonság
+ 
 ## 4.) Követelmények
 ### Funkcionális követelmények:
 - **Kölcsönzők adminisztrációja:** Kölcsönzők regisztrálása, törlése az igényelt üzleti folyamatokban leírtak szerint.  
