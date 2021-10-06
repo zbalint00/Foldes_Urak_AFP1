@@ -4,7 +4,18 @@
 ## 3.) Követelménylista
 ## 4.) Követelmények
 ### Funkcionális követelmények:
+**Kölcsönzők adminisztrációja:** Kölcsönzők regisztrálása, törlése az igényelt üzleti folyamatokban leírtak szerint.  
+**Autók adminisztrációja:** Autók regisztrálása, törlése az igényelt üzleti folyamatokban leírtak szerint.
+**Kölcsönzés adminisztrációja:** Kölcsönzések folyamatának kezelése az igényelt üzleti folyamatokban leírtak szerint.
+**Felhasználói fiókok kezelése:** Bejelentkezés, felhasználói adatok módosítása, intézők, kölcsönzők rögzítése az adatbázisban, listák és kimutatások készítése az igényelt üzleti folyamatokban leírtak szerint.  
+**Platformfüggetlen, robusztus működés:** Szabványos, az iparágban régóta bevált, operációs rendszertől független technológiák használata: Php, Apache HTTP szerver, MySQL.   
+**Költséghatékony üzemeltetés:** A szabványos és elterjedt technológiák használata biztosítja. 
+**Bővíthetőség:** A kezelt adatok mennyiségének, valamint a felhasználók számának bővíthetősége és utólag újabb funkciók hozzáadásának lehetőségének biztosítása.
 ### Nem Funkcionális követelmények:
+- **Látványos** és egyedülálló dizájn
+- **Egyszerű**, gyorsan értelmezhető, letisztult, egyszerűen használható felhasználói felület
+- **Online elérhető nyilvános katalógus:** Bárki számára elérhető online felület készítése, amin keresztül elérhető, böngészhető és kereshető a kölcsönözhető autók katalógusának tartalma.
+- Részfeladatok megfelelő megjelenítése
 ## 5.) Jelenlegi üzleti folyamatok modellje
 ## 6.) Igényelt üzleti folyamatok
 ## 7.) Használati esetek
