@@ -38,6 +38,12 @@
 
 ## 6.) Igényelt üzleti folyamatok
 ## 7.) Használati esetek
+![Üzleti Folyamat](../Pics/uzleti_folyamat.jpg)
+### Felhasználó
+- Be regisztrálhat, bejelentkezhet
+- Kölcsönözhető autók között böngészhet
+- Személyes adatok módosítása
+- Keresés funkció használata
 ## 8.) Megfeleltetés, hogyan fedik le a használati esetek a követelményeket
 ## 9.) Képernyőtervek
 ## 10.) Forgatókönyv
