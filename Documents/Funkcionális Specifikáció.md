@@ -67,7 +67,17 @@
 ## 10.) Forgatókönyv
 ## 11.) Funkció-követelmény megfeleltetés
 ### Funkciókövetelmények megfeleltetés:
+- **Nyomtatás:** Nyomtatásra kész formátumban, PDF kiterjesztésben, a kölcsönző e-mailben kap tájékoztatást arról, hogy mikor, meddig és hogy melyik autót kölcsönözte ki az oldalról, amit a jármű átvételéhez hozznia kell magával.
+- **Kölcsönzők adminisztrációja:** Kölcsönzők regisztrálása, törlése az igényelt üzleti folyamatokban leírtak szerint.
+- **Autók adminisztrációja:** Autók regisztrálása, törlése az igényelt üzleti folyamatokban leírtak szerint.
+- **Felhasználói fiókok kezelése:** Bejelentkezés, felhasználói adatok módosítása, intézők, kölcsönzők rögzítése az adatbázisban, listák és kimutatások készítése az igényelt üzleti folyamatokban leírtak szerint.
+- **Platformfüggetlen működés:** Szabványos, az iparágban régóta bevált, operációs rendszertől független technológiák használata: Php, Apache HTTP szerver, MySQL.
+- **Bővíthetőség:** A kezelt adatok mennyiségének, valamint a felhasználók számának bővíthetősége és utólag újabb funkciók hozzáadásának lehetőségének biztosítása.
+
 ### Nem Funkció-követelmény megfeleltetés:
+- Egyszerű, pontosan értelmezhető, letisztult felhasználóbarát felület
+- Egyszerűen használható kezelőfelület
+- Felhasználók adatainak a biztonága
 ## 12.) Fogalomszótár
 ### Fogalmak:
 - **Akkumulátorról hajtott jármű(BEV)** - Olyan elektromos hajtású gépjármű amelynek egyedüli energiaforrásául – szemben a hibridmodellekkel és a „Range Extender” technológiával működő elektromos járművekkel – kizárólag akkumulátora szolgál (Battery Electric Vehicle; BEV). Az Audi e-tron például jellegzetes BEV-jármű.
