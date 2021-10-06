@@ -126,7 +126,7 @@ K09|V1.0|Bővíthetőség|A kezelt adatok mennyiségének, valamint a felhaszná
  - Kivitelező: Rendben, a csapatom és én megpróbáljuk a legjobb tudásunk szerint megcsinálni ezt a weboldalt. 
 
 ## 8.) Fogalomszótár
-### Fogalmak
+### Fogalmak:
  - **Akkumulátorról hajtott jármű(BEV)** - Olyan elektromos hajtású gépjármű amelynek egyedüli energiaforrásául – szemben a hibridmodellekkel és a „Range Extender” technológiával működő elektromos járművekkel – kizárólag akkumulátora szolgál (Battery Electric Vehicle; BEV). Az Audi e-tron például jellegzetes BEV-jármű.
  
  - **ETA - Jelentése:** VÁRHATÓ ÉRKEZÉSI IDŐ (ETA) az az idő, amikor egy hajó, jármű, repülőgép, rakomány, sürgősségi szolgálat vagy személy várhatóan egy bizonyos helyre érkezik.
