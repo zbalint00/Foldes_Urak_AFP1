@@ -117,8 +117,13 @@ K08|V1.0|Költséghatékony üzemeltetés|A szabványos és elterjedt technológ
 K09|V1.0|Bővíthetőség|A kezelt adatok mennyiségének, valamint a felhasználók számának bővíthetősége és utólag újabb funkciók hozzáadásának lehetőségének biztosítása.
 
 ## 7.) Irányított és szabad szöveges riportok
- - A cégünk weboldala biztosítja az ügyfeleink számára az autó jármű kölcsönzést, amit az ügyfél által megadott időszakban tudja használni a különböző típusú, márkájú gépjárművet.
- -  
+ - Kivitelező: Kérem mondja el mire lenne szüksége!
+ - Megrendelő: Mostanában azon gondolkozatam, hogy nyitni szeretnék egy vállalkozást ami jármű kölcsönzéseket bonyolítana le egy weboldalon keresztül.
+ - Kivitelező: Miért szeretné ezt?
+ - Megrendelő: Mert ez szerintem nagyon le rövidíteni magát a folyamatot és az oldalon egyszerűen, kényelmesen lehetne véghez vinni a jármű kölcsönzést.
+ - Kivitelező: Valóban ezt az ötletet egy weboldalon lehetne könnyedén megvalósítni. Kérem részletezze azt, hogy pontosan hogyan képzelte el a kölcsönzés folyamatát!
+ - Megrendelő: Úgy gondoltam, hogy lennének képek az oldalon a különböző típusú járművekről és a kölcsönző ki tudná választani a pontos dátumot arról, hogy meddig szeretné a járművet használni.
+ - Kivitelező: Rendben, a csapatom és én megpróbáljuk a legjobb tudásunk szerint megcsinálni ezt a weboldalt. 
 
 ## 8.) Fogalomszótár
  - Akkumulátorról hajtott jármű(BEV) - Olyan elektromos hajtású gépjármű amelynek egyedüli energiaforrásául – szemben a hibridmodellekkel és a „Range Extender” technológiával működő elektromos járművekkel – kizárólag akkumulátora szolgál (Battery Electric Vehicle; BEV). Az Audi e-tron például jellegzetes BEV-jármű.
