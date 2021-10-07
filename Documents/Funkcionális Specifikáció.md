@@ -65,6 +65,14 @@
 
 ## 9.) Képernyőtervek
 ## 10.) Forgatókönyv
+Első sorban, ha egy új felhasználó látogat el a weboldalra regisztrálnia kell annak érdekében, hogy bármit is tudjon csinálni a felületen. A sikeres regisztráció után az előjövő bejelntkezési ablakban be bírnak jelentkezni amiután egyből a főoldalon lesznek. A főoldalon található információk közé tartoznak a következők
+- legújabb biztosítások
+- esetleges időszakos kedvezmények
+- a cég és a cégről fontosabb információk
+A **Járművek** menüpontra kattintva a cég járműveit találhatjuk meg, ahol a felhasználó különböző autók közül tud válogatni, majd kölcsönözni azt.
+Az **Admin felület** menüpontba nem léphet be akárki csakis az admin felhasználók. Itt tudnak az adminok új járműveket hozzáadni a kollekcióhoz vagy törölni a kollekcióból.
+A **Profil menüpontra** kattintva a felhasználó a saját profilját tudja megnézni és szerkezteni az adatjait.
+Van egy **Kijelentkezési** menüpont ahol a felhasználó ki bír jelentkezni a profiljából 
 ## 11.) Funkció-követelmény megfeleltetés
 ### Funkciókövetelmények megfeleltetés:
 - **Nyomtatás:** Nyomtatásra kész formátumban, PDF kiterjesztésben, a kölcsönző e-mailben kap tájékoztatást arról, hogy mikor, meddig és hogy melyik autót kölcsönözte ki az oldalról, amit a jármű átvételéhez hozznia kell magával.
