@@ -1,6 +1,7 @@
 # Rendszerterv
 
 ## 1. A rendszer célja
+A jelenlegi vírus helyzett miatt a cégünk egy olyan rendszert talált ki ami az ügyfelek számára kedvező lehet. A rendszer célja az, hogy az emberek online interneten keresztül tudjon kölcsönözni járműveket, így minimálisra tudjuk csökkenteni a személyes találkozások számát. Az ügyfél sokféle különböző típusú, márkájú, osztályú autók közül tud válogatni. Ha meg van a szerencsés jármű ezután már csak az időpontot kell, hogy lefoglalja és kész is a kölcsönzés.
 
 ## 2. Projektterv
 
