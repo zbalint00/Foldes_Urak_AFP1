@@ -96,4 +96,3 @@ Első sorban, ha egy új felhasználó látogat el a weboldalra regisztrálnia k
  - **Felhő** - Internet kapcsolattal igénybe vehető adattároló szolgáltatás. A szolgáltatás nem egy dedikált hardvereszközön üzemel hanem a szolgáltató eszközein az üzemeltetés részleteit a felhasználótól elrejtve
  
  - **Hibrid jármű** - A Hibrid jármű (rövidítése HEV vagyis Hybrid Electric Vehicle) olyan hibridüzemű elektromos jármű jelölése amelynek hajtásáról belsőégésű és elektromos motor kombinációja gondoskodik.
-## 13.) A rendszer céljai és nem céljai
