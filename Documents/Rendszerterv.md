@@ -16,14 +16,30 @@ A jelenlegi vírus helyzett miatt a cégünk egy olyan rendszert talált ki ami 
 ## 3. Üzleti folyamatok modellje
 
 ### 3.1 Üzleti szereplők
+A rendszert regisztrálás nélkül is lehet használni. Ekkor a látogató csak a kezdőlapot tudja elérni, vagy az autókat tudja nézegetni.
+Regisztrált üzleti szereplők a bérlő, és az adminisztrátor.
 
 ### 3.2 Üzleti folyamatok
+Bejelentkezés mindenki számára ugyanolyan lefutású:
+A ’Belépés’ menüpontra kattintva megjelenik a ’Felhasználónév’ és ’Jelszó’ beviteli űrlap. A mezők kitöltése után a ’Belépés’ gombra kattint a felhasználó. Ha az azonosítás sikeres, akkor a felhasználó belépett és megjelenik a jogosultságának megfelelő menüsor.
+Ha nem sikerül az azonosítás, hibaüzenet jelenik meg.
 
-#### Üzleti folyamatok könyvtárosok számára:
+#### Üzleti folyamatok adminisztrátorok számára:
+
+- Bérlő törlése a rendszerből
+- Új autó regisztrálása
+- Autó törlése
 
 #### Üzleti folyamatok bérlők számára:
+- Katalógus megtekintése: 
+A bérlőnek nem szükséges belépnie a rendszerbe a funkció eléréséhez. A felhasználó idő szerint tudja listázni az autókat a rendszerben. A rendszer a találatokat listázza a képernyőn. Ha egy autó sem felel meg a keresési feltételnek, akkor a „Nincs találat.” üzenet jelenik meg a képernyőn.
 
-### 3.3 Üzleti entitások 
+- Személyes adatok módosítása:
+A bérlő a ’Profil’ menü ’Adatok módosítása’ menüpontra kattint. Megjelenik a képernyőn a felhasználó összes adata. A szükséges adat módosítása után az ’Adatok módosítása’ gombra kattint. Az adatok módosítás előtt rendszer ellenőrzi a módosított adat helyességét. Ha az adatok jók, a rendszer az adatbázisban módosítja az olvasó adatait.
+
+### 3.3 Üzleti entitások
+-	könyv
+-	olvasójegy
 
 ## 4. Követelmények
 
