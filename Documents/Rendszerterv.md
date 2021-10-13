@@ -39,7 +39,7 @@ A bérlő a ’Profil’ menü ’Adatok módosítása’ menüpontra kattint. M
 
 ### 3.3 Üzleti entitások
 -	autó
--	olvasójegy
+-	foglalás id
 
 ## 4. Követelmények
 
