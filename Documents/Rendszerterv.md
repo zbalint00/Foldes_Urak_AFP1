@@ -66,5 +66,8 @@ A bérlő a ’Profil’ menü ’Adatok módosítása’ menüpontra kattint. M
 A rendszerünkben két rendszerszereplő csoportot különböztetünk meg. Az egyik az autót kölcsönző felhasználók csoportja. A másik az autók adminisztrációját végző adminok csoportja. A felhasználók igénybe veszik a kölcsönző szolgáltatásait, míg az eladók ezt nyilvántartják és kiszolgálják a felhasználókat. Az eladók több jogosultsággal rendelkeznek, mint az átlagos felhasználó. Az ő feladatuk még a felhasználók értesítése problémák esetén, új autók felvétele a rendszerbe, autó törlése a listából stb. Az eladók csoport része az adminisztrátori jogosultsággal rendelkező eladók csoportja, akik teljes jogosultsággal rendelkeznek. Ők végzik a rendszerben az eladók adminisztrálását.
 
 ### 5.2 Rendszerhasználati esetek és lefutásaik 
+![Keresés](Pics/kereses.png)
+![Új felhasználó regisztrálása](Pics/felhaszn_reg.png)
+![Új autó regisztrálása](Pics/auto_reg.png)
 
 ### 5.3 Határ osztályok 
