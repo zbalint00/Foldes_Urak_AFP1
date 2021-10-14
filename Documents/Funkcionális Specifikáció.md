@@ -13,7 +13,7 @@
 - **Kölcsönzők adminisztrációja:** Kölcsönzők kezelése (törlése) az igényelt üzleti folyamatokban leírtak szerint.  
 - **Autók adminisztrációja:** Autók regisztrálása, törlése az igényelt üzleti folyamatokban leírtak szerint.
 - **Kölcsönzés adminisztrációja:** Kölcsönzések folyamatának kezelése az igényelt üzleti folyamatokban leírtak szerint.
-- **Felhasználói fiókok kezelése:** Bejelentkezés, felhasználói adatok módosítása, intézők, kölcsönzők rögzítése az adatbázisban, listák és kimutatások készítése az igényelt üzleti folyamatokban leírtak szerint.  
+- **Felhasználói fiókok kezelése:** Regisztráció, bejelentkezés, felhasználói adatok módosítása.
 - **Platformfüggetlen, robusztus működés:** Szabványos, az iparágban régóta bevált, operációs rendszertől független technológiák használata: Php, Apache HTTP szerver, MySQL.   
 - **Költséghatékony üzemeltetés:** A szabványos és elterjedt technológiák használata biztosítja. 
 - **Bővíthetőség:** A kezelt adatok mennyiségének, valamint a felhasználók számának bővíthetősége és utólag újabb funkciók hozzáadásának lehetőségének biztosítása.
