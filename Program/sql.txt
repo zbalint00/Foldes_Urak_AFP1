@@ -1,0 +1,59 @@
+CREATE TABLE auto
+(
+    id int AUTO_INCREMENT,
+    kategoria varchar(2),
+    marka varchar(30),
+    tipus varchar(50),
+    felsz int,
+    evjarat int,
+    szin varchar(40),
+    meghajtas varchar(50),
+    ferohely int,
+    klima varchar(10),
+    uzemanyag varchar(20),
+    valto varchar(20),
+    abs varchar(10),
+    szervo varchar(10),
+    CONSTRAINT pk_auto PRIMARY KEY (id)
+);
+
+INSERT INTO auto (kategoria, marka, tipus, felsz, evjarat, szin, meghajtas, ferohely, klima, uzemanyag, valto, abs, szervo) VALUES
+("D","Dacia","Logan","3","2001","Szürke","Hátsókerék","5","Van","Benzin","Manuális","Van","Van"),
+("D","Ford","Focus","3","2002","Fekete","Hátsókerék","5","Van","Benzin","Manuális","Van","Van"),
+("D","Opel","AstraH","3","1999","Szürke","Összkerék","5","Van","Diesel","Manuális","Nincs","Van"),
+("D","Renault","Megane","4","2004","Zöld","Hátsókerék","6","Van","Benzin","Manuális","Van","Van"),
+("D","Toyota","Avensis","3","2000","Szürke","Hátsókerék","5","Van","Benzin","Manuális","Van","Van"),
+("C","Dacia","Duster","4","2008","Barna","Hátsókerék","5","Van","Diesel","Manuális","Van","Van"),
+("C","Mercedes","GLE","4","2009","Szürke","Hátsókerék","5","Van","Benzin","Autómata","Van","Van"),
+("C","Renault","Megane2","3","2008","Szürke","Hátsókerék","5","Van","Benzin","Manuális","Van","Van"),
+("E","Fiat","Cinquecento","1","1985","Bordó","Hátsókerék","2","Nincs","Benzin","Manuális","Nincs","Van"),
+("E","Honda","Civic","2","1998","Szürke","Hátsókerék","4","Van","Benzin","Manuális","Nincs","Van"),
+("E","Lada","2007","1","1993","Fehér","Hátsókerék","4","Nincs","Benzin","Manuális","Nincs","Nincs"),
+("E","Opel","AstraG","2","1995","Fehér","Elsőkerék","5","Van","Diesel","Manuális","Van","Nincs"),
+("E","Renault","Laguna","2","2000","Szürke","Hátsókerék","5","Van","Benzin","Manuális","Van","Van"),
+("B","BMW","X5","4","2011","Fekete","Összkerék","5","Van","Benzin","Manuális","Van","Van"),
+("B","Mercedes","CLA","4","2011","Szürke","Összkerék","5","Van","Benzin","Autómata","Van","Van"),
+("A","Mercedes","Aclass","5","2016","Szürke","Összkerék","5","Van","Diesel","Autómata","Van","Van"),
+("A","Lamborghini","Galardo","5","2018","Szürke","Hátsókerék","2","Van","Benzin","Autómata","Van","Van");
+
+CREATE TABLE kolcsonoz
+(
+    kolcsid int AUTO_INCREMENT,
+    felhid int,
+    aid int,
+    mettol date,
+    meddig date,
+    datum date,
+    CONSTRAINT pk_kolcs PRIMARY KEY (kolcsid),
+    CONSTRAINT fk_auto FOREIGN KEY (aid) REFERENCES auto(id),
+    CONSTRAINT fk_felhasznalo FOREIGN KEY (felhid) REFERENCES felhasznalo(id)
+);
+
+CREATE TABLE IF NOT EXISTS `felhasznalo` (
+	`id` int(11) NOT NULL AUTO_INCREMENT,
+  	`fnev` varchar(50) NOT NULL,
+  	`jelszo` varchar(60) NOT NULL,
+  	`email` varchar(100) NOT NULL,
+    PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
+
