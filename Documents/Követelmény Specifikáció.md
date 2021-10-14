@@ -82,7 +82,7 @@ az adatkezelés biztonságának garantálására hozott technikai és szervezés
 -	kartoték
 
 Üzleti folyamatok: 	
--	Új gépjármű felvétele a rendszerbe: eladó aaz autó adatait felviszi a rendszerbe (kategória, márka, típus, felszereltség, évjárat, szín, meghajtás, férőhely, klíma, üzemanyag, váltó, abs, szervó) => a felvitt adatokat kinyomtatja => a kinyomtatott iratot egy fiókba helyezi kategória és név szerint szortírózva.
+-	Új gépjármű felvétele a rendszerbe: eladó az autó adatait felviszi a rendszerbe (kategória, márka, típus, felszereltség, évjárat, szín, meghajtás, férőhely, klíma, üzemanyag, váltó, abs, szervó) => a felvitt adatokat kinyomtatja => a kinyomtatott iratot egy fiókba helyezi kategória és név szerint szortírózva.
 -	Új kölcsönző regisztrálása: eladó az új kölcsönző adatait feltölti a rendszerbe => az adatokat egy regisztrációs lapra kinomtatja és kartoték rendezőbe helyezi név szerinti ábécé sorrendben.
 -	Gépjármű keresése: kölcsönző a weboldalon kölcsönzés kezdete, kölcsönzés vége dátumokat megadja => kiválasztja a kölcsönözni kívánt autó kategóriáját.
 -	Kölcsönzés – autó kivétele: eladó kiveszi az autó adatait tartalmazó lapot => a lap hátulján lévő táblázatban rögzíti a kölcsönző személy személyes iratait => a lapot a kölcsönzőhöz tartozó kartotékba helyezi kölcsönzésének lejárati határideje szerint rendezve => az eladó rögzíti a kölcsönzött autó azonosítóját és a kölcsönzési határidőt és a kölcsönző a kaucitót leteszi.
