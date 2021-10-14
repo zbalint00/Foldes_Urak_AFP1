@@ -6,13 +6,29 @@ A jelenlegi vírus helyzett miatt a cégünk egy olyan rendszert talált ki ami 
 ## 2. Projektterv
 
 ### 2.1 Projektszerepkörök, felelősségek
-
+- Designer: Zombori Bálint, Molnár Bálint
+- Developer: Linksch Balázs, Galvács István
+- Developer: Zombori Bálint, Molnár Bálint
 ### 2.2 Projektmunkások és felelősségeik
-
-### 2.3 Ütemterv
-
+- Design elkészítése: Molnár Bálint
+- Keretrendszer elkészítése: Galvács István
+- Admin felület elkészítése: Linksch Balázs
+- Profil menü elkészítése: Zombori Bálint
+- Autó kölcsönzés elkészítése: Linksch Balázs
+- Email rendszer elkészítése: Molnár Bálint
+- Belépés-Regisztráció: Linksch Balázs
+### 2.3 Közös feladatok
+- Követelmény specifikáció megírása
+- Funkcionális specifikáció megírása
+- Rendszerterv elkészítése
 ### 2.4 Mérföldkövek
-
+1. Keretrendszer elkészítése
+2. Weboldal elkészítése
+  - Belépés-Regisztráció
+  - Kölcsönzés
+  - Admin felület
+  - Profil oldal
+3.Design elkészítése
 ## 3. Üzleti folyamatok modellje
 
 ### 3.1 Üzleti szereplők
@@ -34,6 +50,9 @@ Ha nem sikerül az azonosítás, hibaüzenet jelenik meg.
 - Katalógus megtekintése: 
 A bérlőnek nem szükséges belépnie a rendszerbe a funkció eléréséhez. A felhasználó idő szerint tudja listázni az autókat a rendszerben. A rendszer a találatokat listázza a képernyőn. Ha egy autó sem felel meg a keresési feltételnek, akkor a „Nincs találat.” üzenet jelenik meg a képernyőn.
 
+- Személyes adatok módosítása:
+A bérlő a ’Profil’ menü ’Adatok módosítása’ menüpontra kattint. Megjelenik a képernyőn a felhasználó összes adata. A szükséges adat módosítása után az ’Adatok módosítása’ gombra kattint. Az adatok módosítás előtt rendszer ellenőrzi a módosított adat helyességét. Ha az adatok jók, a rendszer az adatbázisban módosítja a bérlő adatait.
+
 ### 3.3 Üzleti entitások
 -	autó
 -	foglalás id
@@ -44,7 +63,7 @@ A bérlőnek nem szükséges belépnie a rendszerbe a funkció eléréséhez. A 
 - **Kölcsönzők adminisztrációja:** Kölcsönzők regisztrálása, törlése az igényelt üzleti folyamatokban leírtak szerint.  
 - **Autók adminisztrációja:** Autók regisztrálása, törlése az igényelt üzleti folyamatokban leírtak szerint.
 - **Kölcsönzés adminisztrációja:** Kölcsönzések folyamatának kezelése az igényelt üzleti folyamatokban leírtak szerint.
-- **Felhasználói fiókok kezelése:** Bejelentkezés, kölcsönzők rögzítése az adatbázisban
+- **Felhasználói fiókok kezelése:** Bejelentkezés, felhasználói adatok módosítása, intézők, kölcsönzők rögzítése az adatbázisban, listák és kimutatások készítése az igényelt üzleti folyamatokban leírtak szerint.  
 - **Platformfüggetlen, robusztus működés:** Szabványos, az iparágban régóta bevált, operációs rendszertől független technológiák használata: Php, Apache HTTP szerver, MySQL.   
 - **Költséghatékony üzemeltetés:** A szabványos és elterjedt technológiák használata biztosítja. 
 - **Bővíthetőség:** A kezelt adatok mennyiségének, valamint a felhasználók számának bővíthetősége és utólag újabb funkciók hozzáadásának lehetőségének biztosítása.
@@ -119,5 +138,3 @@ A rendszerünkben két rendszerszereplő csoportot különböztetünk meg. Az eg
 ![Keresés](Pics/kereses.png)
 ![Új felhasználó regisztrálása](Pics/felhaszn_reg.png)
 ![Új autó regisztrálása](Pics/auto_reg.png)
-
-### 5.3 Határ osztályok 
