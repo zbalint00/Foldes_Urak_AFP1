@@ -10,7 +10,7 @@
  
 ## 4.) Követelmények
 ### Funkcionális követelmények:
-- **Kölcsönzők adminisztrációja:** Kölcsönzők regisztrálása, törlése az igényelt üzleti folyamatokban leírtak szerint.  
+- **Kölcsönzők adminisztrációja:** Kölcsönzők kezelése (törlése) az igényelt üzleti folyamatokban leírtak szerint.  
 - **Autók adminisztrációja:** Autók regisztrálása, törlése az igényelt üzleti folyamatokban leírtak szerint.
 - **Kölcsönzés adminisztrációja:** Kölcsönzések folyamatának kezelése az igényelt üzleti folyamatokban leírtak szerint.
 - **Felhasználói fiókok kezelése:** Bejelentkezés, felhasználói adatok módosítása, intézők, kölcsönzők rögzítése az adatbázisban, listák és kimutatások készítése az igényelt üzleti folyamatokban leírtak szerint.  
