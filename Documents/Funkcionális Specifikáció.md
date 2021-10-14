@@ -52,7 +52,7 @@
 ## 7.) Használati esetek
 ![Üzleti Folyamat](Pics/uzleti_folyamat.jpg)
 ### Felhasználó
-- Be regisztrálhat, bejelentkezhet
+- Beregisztrálhat, bejelentkezhet
 - Kölcsönözhető autók között böngészhet
 - Személyes adatok módosítása
 - Keresés funkció használata
