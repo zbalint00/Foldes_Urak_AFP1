@@ -1,5 +1,10 @@
 # Funkcionális Specifikáció
 ## 1.) Áttekintés
+- Egy olyan weboldal fejlesztésére adtuk a fejünket ami a mai vírusokkal teli viklágban képes a fizikális érintkezést csökkenteni egy autókölcsönzés során a minimálisra.
+- Regisztrációt követően a felhasználó beléphet az oldalra a megfelelő adatok megadásával.
+- Lehetősége van a profiljának információt megnézni a PROFIL fülre kattintva.
+- A felhasználó az adott időintervallumot megadva tud autót bérelni a különböző extrák megadásával.
+- Minden foglalás után a regisztrált email címre küld egy visszaigazoló emailt, hogy a foglalás sikeresen megtörtént.
 ## 2.) Jelenlegi helyzet
 ## 3.) Követelménylista
  1. Reszponzív dizájn
