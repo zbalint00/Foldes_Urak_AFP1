@@ -43,11 +43,11 @@
 -	Kölcsönzés - autó visszavétele: kölcsönző átadja az autót és a kölcsönzésről szóló iratot az eladónak => eladó az iraton regisztrálja a visszavétel tényét és a kauciót visszaadja a kölcsönzőnek => a kölcsönző kartotékjából az autóhoz tartozó lapot kiveszi és rögzíti rajta a visszavételt = > lapot visszahelyezi a többi kölcsönözhető autók közé.
 
 ## 6.) Igényelt üzleti folyamatok
-1. A felhasználó a főoldalon fog látni autókkal kapcsolatos híreket.
+1. A felhasználó a főoldalon fog autókkal kapcsolatos híreket látni.
 2. A navigációs sáv gombjaival átírányíthatja magát a felhasználó a kölcsönzés vagy a regisztració/bejelentkezés szekcióra.
 3. Az átirányítást követően már láthatja is a kívánt oldalt.
 4. Ha a felhasználó felregisztrált be kell jelentkeznie, hogy kölcsönözni tudjon.
-5. Egy autó kiválasztása során azt könnyedén kikölcsönözheti.
+5. Egy autó kiválasztása során azt könnyedén kikölcsönözheti időpont kiválasztása alapján.
 
 ## 7.) Használati esetek
 ![Üzleti Folyamat](Pics/uzleti_folyamat.jpg)
