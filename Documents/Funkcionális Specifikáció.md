@@ -8,7 +8,6 @@
 ## 2.) Jelenlegi helyzet
 A cél hogy minden korosztály 18-100 között aki már rendelkezik jogosítvánnyal képes legyen online autót kölcsönözni. Fontos szempontnak tartottuk, hogy ne csak a társadalom egyes rétegeit elégítsük ki ezért olyan rendszert terveztünk, illetve töltöttünk fel gépjárművekkel, hogy a szegényebb rétegtől az egészen gazdag rétegig megtalálják az emberek amit szeretnének. Természetesen a tartalom csak szemléltetés, hogy a rendszer képes ezt teljesíteni, mi nem rendelkezünk ilyen autókkal. Fontos, hogy az oldal olyan felhasznűló barát legyen, hogy mindenki könnyen megtalálja amit keres ezért nem raktunk bele sok lehetőséget hirdetés és egyébb nem az oldal működését elősegítő funkcióra.
 ## 3.) Követelménylista
-## 3.) Követelménylista
  1. Reszponzív dizájn
  2. Új autók megjelenítése főoldalon
  3. Letisztult felhasználói felület
@@ -20,7 +19,7 @@ A cél hogy minden korosztály 18-100 között aki már rendelkezik jogosítván
 - **Kölcsönzők adminisztrációja:** Kölcsönzők kezelése (törlése) az igényelt üzleti folyamatokban leírtak szerint.  
 - **Autók adminisztrációja:** Autók regisztrálása, törlése az igényelt üzleti folyamatokban leírtak szerint.
 - **Kölcsönzés adminisztrációja:** Kölcsönzések folyamatának kezelése az igényelt üzleti folyamatokban leírtak szerint.
-- **Felhasználói fiókok kezelése:** Regisztráció, bejelentkezés
+- **Felhasználói fiókok kezelése:** Regisztráció, bejelentkezés, felhasználói adatok módosítása.
 - **Platformfüggetlen, robusztus működés:** Szabványos, az iparágban régóta bevált, operációs rendszertől független technológiák használata: Php, Apache HTTP szerver, MySQL.   
 - **Költséghatékony üzemeltetés:** A szabványos és elterjedt technológiák használata biztosítja. 
 - **Bővíthetőség:** A kezelt adatok mennyiségének, valamint a felhasználók számának bővíthetősége és utólag újabb funkciók hozzáadásának lehetőségének biztosítása.
